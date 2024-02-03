@@ -11,7 +11,7 @@ const Blanket = (props: IBlanketProps) => {
   const isSmallScreen = useMediaQuery("(max-width: 580px)");
 
   return (
-    <StyledBlanket isSmallScreen={!isSmallScreen}>
+    <StyledBlanket $isSmallScreen={!isSmallScreen}>
       <Stack alignItems="center" justifyContent="center">
         {children}
       </Stack>

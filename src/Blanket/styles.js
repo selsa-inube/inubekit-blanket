@@ -4,7 +4,8 @@ import { inube } from "@inubekit/foundations";
 const StyledBlanket = styled.div`
   position: fixed;
   display: grid;
-  place-items: ${(props) => (props.isSmallScreen ? "center" : "initial")};
+  place-items: ${({ $isSmallScreen }) =>
+    $isSmallScreen ? "center" : "initial"};
   inset: 0;
   background-color: ${({ theme }) =>
     theme?.color?.surface?.blanket?.regular ||
