@@ -9,6 +9,8 @@ export const StyledBackdropBlanket = styled.div`
 `;
 
 export const StyledButton = styled.button`
+  cursor: pointer;
+  height: 36px;
   border-radius: 8px;
   border: none;
   border-width: 1px;
@@ -16,6 +18,11 @@ export const StyledButton = styled.button`
   padding-left: ${inube.spacing.s200};
   padding-right: ${inube.spacing.s200};
   background-color: ${inube.color.surface.primary.regular};
+  font-family: ${inube.typography.body.large.font};
+  font-size: ${inube.typography.body.large.size};
+  font-weight: ${inube.typography.body.large.weight};
+  line-height: ${inube.typography.body.large.lineHeight};
+  color: ${inube.color.text.light.regular};
 
   &:hover {
     background-color: ${inube.color.surface.primary.hover};
