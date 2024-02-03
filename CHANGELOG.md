@@ -1,3 +1,26 @@
+# v0.0.2 (Fri Feb 02 2024)
+
+#### ⚠️ Pushed to `main`
+
+- feat(Blanket.stories.styles): adjust Button styles to document the component (carlos3k11@gmail.com)
+- feat(Blanket): update the name of the props of the styled-components component (carlos3k11@gmail.com)
+- feat: update @inubekit/stack to version 1.1.0 (carlos3k11@gmail.com)
+- feat(Blamquet.stories): add stories for component documentation (carlos3k11@gmail.com)
+- feat(Blanket): add Blanket component and styles (carlos3k11@gmail.com)
+- feat(vite.config.ts): add rollupOptions (carlos3k11@gmail.com)
+- feat(tsconfig.json): enable JavaScript support (carlos3k11@gmail.com)
+- refactor: remove unused addons and update dependencies (carlos3k11@gmail.com)
+- feat: add vite-plugin-dts to package.json and vite.config.ts (carlos3k11@gmail.com)
+- feat(package.json): update with new component name (carlos3k11@gmail.com)
+- Initial commit ([@Andresbl123](https://github.com/Andresbl123))
+
+#### Authors: 2
+
+- Andres ([@Andresbl123](https://github.com/Andresbl123))
+- Andres Babativa (carlos3k11@gmail.com)
+
+---
+
 # v0.0.1 (Wed Jan 17 2024)
 
 #### ⚠️ Pushed to `main`
