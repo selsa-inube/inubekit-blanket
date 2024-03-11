@@ -15,8 +15,8 @@ const StyledButton = styled.button`
   border: none;
   border-width: 1px;
   width: fit-content;
-  padding-left: 8px;
-  padding-right: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
   background-color: ${inube.blanket.background.color};
   font-family: ${inube.typography.body.large.font};
   font-size: ${inube.typography.body.large.size};
