@@ -2,7 +2,7 @@ import { useMediaQuery } from "@inubekit/hooks";
 import { Stack } from "@inubekit/stack";
 import { StyledBlanket } from "./styles";
 
-export interface IBlanketProps {
+interface IBlanketProps {
   children?: React.ReactNode;
 }
 
@@ -19,4 +19,5 @@ const Blanket = (props: IBlanketProps) => {
   );
 };
 
+export type { IBlanketProps };
 export { Blanket };

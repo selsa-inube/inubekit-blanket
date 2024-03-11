@@ -8,8 +8,7 @@ const StyledBlanket = styled.div`
     $isSmallScreen ? "center" : "initial"};
   inset: 0;
   background-color: ${({ theme }) =>
-    theme?.color?.surface?.blanket?.regular ||
-    inube.color.surface.blanket.regular};
+    theme?.blanket?.background?.color || inube.blanket.background.color};
   border: none;
   z-index: 1;
   overflow-y: auto;
