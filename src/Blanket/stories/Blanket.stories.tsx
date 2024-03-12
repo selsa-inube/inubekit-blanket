@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import { Blanket, IBlanketProps } from "..";
+import { Blanket, IBlanket } from "..";
 import { StyledBackdropBlanket, StyledButton } from "./styles";
 
 const story = {
@@ -22,7 +22,7 @@ const story = {
   },
 };
 
-const Default = (args: IBlanketProps) => {
+const Default = (args: IBlanket) => {
   const [showBlanket, setShowBlanket] = useState(false);
 
   const handleShowBlanket = () => {
