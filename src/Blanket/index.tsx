@@ -2,11 +2,11 @@ import { useMediaQuery } from "@inubekit/hooks";
 import { Stack } from "@inubekit/stack";
 import { StyledBlanket } from "./styles";
 
-export interface IBlanketProps {
+interface IBlanket {
   children?: React.ReactNode;
 }
 
-const Blanket = (props: IBlanketProps) => {
+const Blanket = (props: IBlanket) => {
   const { children } = props;
   const isSmallScreen = useMediaQuery("(max-width: 580px)");
 
@@ -19,4 +19,5 @@ const Blanket = (props: IBlanketProps) => {
   );
 };
 
+export type { IBlanket };
 export { Blanket };
