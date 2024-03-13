@@ -1,3 +1,20 @@
+# v2.0.0 (Wed Mar 13 2024)
+
+#### 💥 Breaking Change
+
+- Refactor components to use new token structure [#2](https://github.com/selsa-inube/inubekit-blanket/pull/2) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+#### 🐛 Bug Fix
+
+- Adjust publish `<Blanket />` in @inubekit/blanket repo [#1](https://github.com/selsa-inube/inubekit-blanket/pull/1) ([@Andresbl123](https://github.com/Andresbl123))
+
+#### Authors: 2
+
+- Andres ([@Andresbl123](https://github.com/Andresbl123))
+- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+---
+
 # v0.0.2 (Fri Feb 02 2024)
 
 #### ⚠️ Pushed to `main`
