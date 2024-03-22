@@ -1,3 +1,24 @@
+# v2.1.0 (Fri Mar 22 2024)
+
+#### 🚀 Enhancement
+
+- Adjust and export interfaces [#4](https://github.com/selsa-inube/inubekit-blanket/pull/4) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+#### 📝 Documentation
+
+- Publish new version 2.0.0 [#3](https://github.com/selsa-inube/inubekit-blanket/pull/3) ([@cmarin001](https://github.com/cmarin001))
+
+#### 🔩 Dependency Updates
+
+- Update inubekit/blanket to storybook v8 [#5](https://github.com/selsa-inube/inubekit-blanket/pull/5) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 2
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+---
+
 # v2.0.0 (Wed Mar 13 2024)
 
 #### 💥 Breaking Change
