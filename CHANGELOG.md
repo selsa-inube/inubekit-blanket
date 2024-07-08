@@ -1,3 +1,15 @@
+# v2.4.0 (Mon Jul 08 2024)
+
+#### 🚀 Enhancement
+
+- Update foundations dependencies [#10](https://github.com/selsa-inube/inubekit-blanket/pull/10) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.3.0 (Sat Jun 29 2024)
 
 #### 🚀 Enhancement
