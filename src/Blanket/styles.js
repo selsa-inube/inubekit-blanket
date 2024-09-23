@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { inube } from "@inubekit/foundations";
+import { tokens } from "./Tokens/tokens";
 
 const StyledBlanket = styled.div`
   position: fixed;
@@ -8,7 +8,7 @@ const StyledBlanket = styled.div`
     $isSmallScreen ? "center" : "initial"};
   inset: 0;
   background-color: ${({ theme }) =>
-    theme?.blanket?.background?.color || inube.blanket.background.color};
+    theme?.blanket?.background?.color || tokens.background.color};
   border: none;
   z-index: 1;
   overflow-y: auto;
