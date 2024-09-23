@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import { inube } from "@inubekit/foundations";
+import { tokens } from "../Tokens/tokens";
 
 const StyledBackdropBlanket = styled.div`
   position: fixed;
@@ -17,15 +18,15 @@ const StyledButton = styled.button`
   width: fit-content;
   padding-left: 16px;
   padding-right: 16px;
-  background-color: ${inube.blanket.background.color};
+  background-color: ${tokens.background.color};
   font-family: ${inube.typography.body.large.font};
   font-size: ${inube.typography.body.large.size};
   font-weight: ${inube.typography.body.large.weight};
   line-height: ${inube.typography.body.large.lineHeight};
-  color: ${inube.blanket.background.color};
+  color: ${tokens.background.color};
 
   &:hover {
-    background-color: ${inube.blanket.background.color};
+    background-color: ${tokens.background.color};
   }
 `;
 
