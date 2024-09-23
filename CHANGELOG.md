@@ -1,3 +1,15 @@
+# v2.23.0 (Mon Sep 23 2024)
+
+#### 🚀 Enhancement
+
+- Move blanket tokens from foundations to component [#29](https://github.com/selsa-inube/inubekit-blanket/pull/29) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.22.0 (Mon Sep 02 2024)
 
 #### 🚀 Enhancement
