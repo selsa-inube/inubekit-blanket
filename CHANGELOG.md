@@ -1,3 +1,15 @@
+# v2.25.1 (Fri Dec 13 2024)
+
+#### 🐛 Bug Fix
+
+- Add TOKENS.md document [#32](https://github.com/selsa-inube/inubekit-blanket/pull/32) ([@CristianRojas-47](https://github.com/CristianRojas-47))
+
+#### Authors: 1
+
+- Cristian Rojas ([@CristianRojas-47](https://github.com/CristianRojas-47))
+
+---
+
 # v2.25.0 (Thu Oct 10 2024)
 
 #### 🚀 Enhancement
