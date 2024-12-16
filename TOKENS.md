@@ -4,6 +4,6 @@
 
 **reference**: used when the tokes points to another token.
 
-| token                             | value | reference                           |
-| --------------------------------- | ----- | ----------------------------------- |
-| fondecom.blanket.background.color |       | fondecom.palette.neutralAlpha.n100a |
+| token                          | value | reference                        |
+| ------------------------------ | ----- | -------------------------------- |
+| inube.blanket.background.color |       | inube.palette.neutralAlpha.n100a |
